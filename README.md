@@ -5,7 +5,7 @@ This project is a basic demonstration of how you can plot a graph with python+tk
 2. Upload the arduino code to your arduino 
 3. Connect LDR to arduino according to the circuit diagram 
 4. Start Botien-plot-lab script 
-![screen shot](screenshot.png)
+![screen shot](https://github.com/bonfotieno/Plotting-Visualization-LDR-Arduino-data-with-tkinter-python-only-without-matplotlib-/blob/main/sreenshot.png)
 
 #### Feel free to use this code in your projects. I've tried commenting everything that seems complex in the code. 
 
